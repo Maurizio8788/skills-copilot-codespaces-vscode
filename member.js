@@ -1,8 +1,4 @@
-function skillMember() {
-    var member = {
-        name: "John Doe",
-        age: 30,
-        skills: ["JavaScript", "React", "Node", "MongoDB"]
-    };
-    return member;
+function memberSkills() {
+    const skills = ["HTML", "CSS", "JS"];
+    return skills;
 }
